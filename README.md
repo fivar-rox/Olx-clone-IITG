@@ -1,43 +1,36 @@
-# Getting Started with Create React App
+## OLX-clone
+If you want to sell anything like cars, bikes, computers, gadgets, etc. then you can post an ad with complete details of the item. Olx Clone is a classifieds script that gives the best digital platform to sellers and buyers. It has made online shopping and selling of products easier and quicker. Using this product anyone can launch a robust classifieds website within minutes.
+  Olx-Clone is a reliable JavaScript-based classifieds script developed in React and Firebase with mobile responsive design.
+  
+## Features
+ * Login, logout and account recovery using E-mail.
+ * User account and profile information (email, phone num, address)
+ * Interface to sell a product (includes description, demanded price, title)
+ * Global interface to see latest products
+ * Search based on keywords and title (rudimentary search, not using any tokenization methods)
+ * Interface to view a posted product and show interest 
+## Sample images
+![Screenshot from 2021-10-29 10-01-37](https://user-images.githubusercontent.com/91063960/139376405-043d6cfd-93b3-4486-a07a-2ff3382846d8.png)
+![Screenshot from 2021-10-29 10-01-58](https://user-images.githubusercontent.com/91063960/139376440-1dcd424a-6979-4ec7-bfa0-9e9038ddcbd0.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Future features in queue for next version
+(in Jan 2023 probably)
+* Enabling and configuring anonymous proxies to sellers and buyers for every transactions
+* Providing a interface to negotiate and bid prices among buyers and seller involving only numbers, not test messages
+* Encorporating a rating and star system to encourage users to sell un-need products for the benefit of community.
+  
+## Tech Stack
 
-## Available Scripts
+**Client:** React, Context, CSS
 
-In the project directory, you can run:
+**Server:** Firebase
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  1. Clone/Download the repo.
+  2. Run npm install.
+  3. Config the BackEnd FireBase Change the values in src/firebase/config.js to suit your firebase console project api key values.
+  4. Run npm start to spin the up the local dev server port 3000.(http://localhost:3000).
 
 ## Learn More
 
@@ -45,26 +38,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
