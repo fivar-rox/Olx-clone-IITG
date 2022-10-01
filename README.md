@@ -1,5 +1,5 @@
 ## A buy and sell platform - Olx Clone
-This is a buy and sell platform developed for the campus community to pass on goods from senoirs to juniors hasslefree.    
+This is a buy and sell platform developed for the campus community.    
   
 ## Features
  * Login, logout and account recovery using E-mail.
