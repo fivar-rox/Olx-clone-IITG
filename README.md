@@ -1,6 +1,5 @@
-## OLX-clone
-If you want to sell anything like cars, bikes, computers, gadgets, etc. then you can post an ad with complete details of the item. Olx Clone is a classifieds script that gives the best digital platform to sellers and buyers. It has made online shopping and selling of products easier and quicker. Using this product anyone can launch a robust classifieds website within minutes.
-  Olx-Clone is a reliable JavaScript-based classifieds script developed in React and Firebase with mobile responsive design.
+## A buy and sell platform - Olx Clone
+This is a buy and sell platform developed for the campus community to pass on goods from senoirs to juniors hasslefree.    
   
 ## Features
  * Login, logout and account recovery using E-mail.
