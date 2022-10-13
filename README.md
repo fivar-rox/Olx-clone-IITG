@@ -1,5 +1,5 @@
 ## A buy and sell platform - Olx Clone
-This is a buy and sell platform developed for the campus community.    
+This is a buy and sell platform developed for the campus community. We have used waterfall SD-methodology (outdated, but just for fun) to create SRS, DFD and other related documents and testings. This project is still in its phase-I, this is just a working base product, some new creative features will be added soon (are noted down below).   
   
 ## Features
  * Login, logout and account recovery using E-mail.
@@ -14,9 +14,9 @@ This is a buy and sell platform developed for the campus community.
 
 ## Future features in queue for next version
 (in Jan 2023 probably)
-* Enabling and configuring anonymous proxies to sellers and buyers for every transactions
-* Providing a interface to negotiate and bid prices among buyers and seller involving only numbers, not test messages
-* Encorporating a rating and star system to encourage users to sell un-need products for the benefit of community.
+* Enabling and configuring anonymous proxies to sellers and buyers for every transactions. (Generated using a probability table from a names database taken from a foriegn source).
+* Providing a interface to negotiate and bid prices among buyers and seller involving only numbers, without any test messages.
+* Encorporating a rating and star system to encourage users to sell un-need products for the benefit of community. (Encourages users). Code components are ready, integration is pending.
   
 ## Tech Stack
 
